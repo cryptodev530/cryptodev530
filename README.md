@@ -11,8 +11,6 @@
 
 My major skills are blockchain-based web application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask, and much more.
-
 Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, Angular, and Vue.
 
 I had already built so many Websites with the mentioned skill.

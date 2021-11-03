@@ -22,6 +22,7 @@ I had already built so many Websites with the mentioned skill.
     
 - 💬 Telegram : [@davinch530](https://t.me/davinch530);
 - 📝 Email : vasakostic81@gmail.com
+- 📝 discord : davinch530#9366
 
 
 

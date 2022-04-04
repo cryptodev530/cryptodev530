@@ -21,8 +21,8 @@ I had already built so many Websites with the mentioned skill.
 </div>
     
 - 💬 Telegram : [@cryptodev530](https://t.me/davinch530);
-- 📝 Email : topdeveloper530@gmail.com
-- 📝 discord : cryptodev#9366
+- 📝 Email : vasakostic81@gmail.com
+- 📝 discord : cryptodev530#9366
 
 
 
